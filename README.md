@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mm1089&theme=vue&date_format=n%2Fj%5B%2FY%5D&ring=FF8E1B&fire=F18719)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm1089&hide_border=false&theme=vue&card_width=500)](https://github.com/mm1089)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm1089&hide_border=false&theme=vue&card_width=500)](https://github.com/mm1089) -->
 
 
 <!-- Featured Repository
