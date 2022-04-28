@@ -1,10 +1,4 @@
 <!-- ReadMe Profile -->
-<div align="center">
-
-[![mm1089 - advanced-databases-group](https://img.shields.io/static/v1?label=mm1089&message=profile&color=42b883&logo=github)](https://github.com/mm1089/ "Go to GitHub Profile")
-[![License](https://img.shields.io/badge/License-MIT-42b883)](#license)
-<div>
-
 <h1 align="left">📈Stats</h1>
 <div align="center">
   
@@ -35,6 +29,11 @@
   ![snake gif](https://github.com/mm1089/mm1089/blob/output/github-contribution-grid-snake.gif)
 
 </div>
+  
+<div align="right">
+
+[![mm1089 - advanced-databases-group](https://img.shields.io/static/v1?label=mm1089&message=profile&color=42b883&logo=github)](https://github.com/mm1089/ "Go to GitHub Profile")
+<div>
 
 <!--- UNUSED ASSETS
 
