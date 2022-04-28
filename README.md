@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![view - Documentation](https://img.shields.io/badge/view-Repositories-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+[![view - Documentation](https://img.shields.io/badge/view-Repositories-blue?style=for-the-badge)](https://github.com/mm1089?tab=repositories "Go to project repositories")
 
 </div>
 
