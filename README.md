@@ -1,5 +1,4 @@
 <!-- ReadMe Profile -->
-<h1 align="left">📈Stats</h1>
 <div align="center">
   
 
@@ -9,11 +8,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mm1089&theme=vue&date_format=j%20M%5B%20Y%5D&fire=F18719&currStreakNum=000000&sideLabels=000000&sideNums=000000&currStreakLabel=000000)](https://github.com/mm1089)
 -->
 
-[![view - Documentation](https://img.shields.io/badge/view-Portfolio-blue?style=for-the-badge)]((https://mm1089.github.io/mm1089/) "Go to project documentation")
+<!-- [![view - Documentation](https://img.shields.io/badge/view-Portfolio-blue?style=for-the-badge)]((https://mm1089.github.io/mm1089/) "Go to project documentation") -->
 
 </div>
 <div>
-<h1 align="left">🛠️Tools</h1>
   <div align="center">
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -33,16 +31,14 @@
 </div>
 
 <div>
-<h1 align="left">🐍Contributions</h1>
+<!-- <h1 align="left">🐍My Contributions</h1> -->
+  <div align="center">
 
   ![snake gif](https://github.com/mm1089/mm1089/blob/output/github-contribution-grid-snake.gif)
+    
+  </div>
 
 </div>
-  
-<div align="right">
-
-[![mm1089 - advanced-databases-group](https://img.shields.io/static/v1?label=mm1089&message=profile&color=42b883&logo=github)](https://github.com/mm1089/ "Go to GitHub Profile")
-<div>
 
 <!--- UNUSED ASSETS
 
