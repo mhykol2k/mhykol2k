@@ -2,7 +2,7 @@
 <div align="center">
   
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhykol2k&hide_border=false&theme=vue&show_icons=true&hide_title=true)](https://github.com/mhykol2k)
+<!-- [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhykol2k&hide_border=false&theme=vue&show_icons=true&hide_title=true)](https://github.com/mhykol2k) -->
   
 <!--  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mm1089&theme=vue&date_format=j%20M%5B%20Y%5D&fire=F18719&currStreakNum=000000&sideLabels=000000&sideNums=000000&currStreakLabel=000000)](https://github.com/mhykol2k)
